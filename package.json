@@ -1,0 +1,23 @@
+{
+  "name": "game-of-thrones-db",
+  "version": "0.0.0",
+  "description": "What dead is never die!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS-Tao/Game-of-Thrones-db.git"
+  },
+  "keywords": [
+    "game-of-thrones",
+    "graphql"
+  ],
+  "author": "CS-Tao <whucstao@qq.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/CS-Tao/Game-of-Thrones-db/issues"
+  },
+  "homepage": "https://github.com/CS-Tao/Game-of-Thrones-db#readme"
+}
